@@ -7,5 +7,5 @@ class Vehicle
 end
 
 def global_variables
- 
+  
 end
